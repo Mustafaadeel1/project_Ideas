@@ -2,7 +2,7 @@
 ## Description:
 * OmniAssist AI is an advanced, all-in-one intelligent system that combines multiple functionalities into a unified interface. This agent is designed to cater to diverse use cases, such as personal productivity, educational assistance, business management, and family security. It integrates features like messaging automation, invoice generation, educational support, and security monitoring.
 
-## `Key Features:`
+## Key Features:
 1. Smart Communication Manager
 
 * WhatsApp/Email Notification Filter: Notifies the user only for messages/emails from important contacts.
